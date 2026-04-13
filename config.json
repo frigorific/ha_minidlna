@@ -1,9 +1,10 @@
 {
-    "name": "Minidlna",
-    "version": "0.4",
+    "name": "MiniDLNA",
+    "version": "0.5",
+    "init": false,
     "slug": "minidlna",
     "description": "MiniDLNA",
-    "url": "https://github.com/cavaliere78/ha_minidlna",
+    "url": "https://github.com/frigorific/ha_minidlna",
     "startup": "services",
     "boot": "auto",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
