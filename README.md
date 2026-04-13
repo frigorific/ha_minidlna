@@ -3,6 +3,10 @@
 
 This app provides MiniDLNA for Home Assistant Operating System.
 
+Lightweight and seamless sharing of mediafiles directly to DLNA/UPnP devices on local network. TVs, game consoles and media players etc.
+
+Forked from https://github.com/cavaliere78/ha_minidlna
+
 ## Installation
 
 Copy the url of this addon into "Add repository" found here -> 
