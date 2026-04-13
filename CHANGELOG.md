@@ -18,5 +18,5 @@
 
 ## 0.5
 
-- fix for pid1 error on start. added in config.json: "init": false,
+- fix for pid1 error on start for Home Assistant 2026. added in config.json: "init": false,
 - new logo
