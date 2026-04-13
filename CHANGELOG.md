@@ -20,3 +20,6 @@
 
 - fix for pid1 error on start for Home Assistant 2026. added in config.json: "init": false,
 - new logo
+- default to visible server name "HomeAssistant"
+- default to browse folderstructure
+- repository changed
