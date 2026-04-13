@@ -1,11 +1,13 @@
-## MiniDLNA for hass.io
+## MiniDLNA for Home Assistant Operating System
 ## Description
 
-This addon provide a container for hass.io with MiniDLNA
+This app provides MiniDLNA for Home Assistant Operating System.
 
 ## Installation
 
-Copy the url of this addon into "Supervisor" -> "Addon Store" -> "Add New repository URL" after install it. 
+Copy the url of this addon into "Add repository" found here -> 
+"Settings" -> "Apps" -> "Install app/App store" -> three-dot-menu -> "Repositories".
+Go back to Apps -> "Install app" and find MiniDLNA to install. 
 
 
 ## Configuration 
